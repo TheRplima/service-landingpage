@@ -356,11 +356,12 @@ nav.show div.icon-close {
   text-align: center;
 }
 
-.card i {
-  display: block;
+.card svg {
+  display: inline-block;
   margin-bottom: 1.5rem;
   font-size: 5rem;
   color: var(--base-color);
+  text-align: center;
 }
 
 .card .title {
